@@ -1,3 +1,4 @@
+! [Retail Sales Trend] ( chart.png)
 # Retail Sales Trend Analysis (1993–2019)
 ## Overview
 This project analyzes U.S. retail sales over time to identify long-term trends, seasonal patterns, and the impact of major economic events.
